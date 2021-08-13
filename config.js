@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle : 'Anh à'
-    introDesc :'Em yêu anh nhiều lắm anh có biết hong ',
+    introDesc : 'Em yêu anh nhiều lắm anh có biết hem' ,
     btnIntro : 'hihi' ,
     title: 'happy aniversary 5 tháng của tụi mình <3',
-    desc: 'Anh có iu và tha thứ lỗi lầm của em hong ',
+    mô tả :    'Iu em hem, tha thứ cho em hem '
     btnYes: 'Cóoo anh iu em <33',
     btnNo: 'hông, anh muốn thêm gì đóoo:3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
